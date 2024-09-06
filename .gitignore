@@ -1,0 +1,4 @@
+# Exclude these folders (don't upload onto github)
+
+Documents/Figures/
+Documents/Models/
